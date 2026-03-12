@@ -51,23 +51,8 @@ http://localhost:3000
 7. Сортировка работает по клику на заголовки столбцов
 
 ## Структура проекта
-user-management-app/
-├── public/
-│ └── index.html
-├── src/
-│ ├── components/
-│ │ ├── UserTable.jsx (таблица пользователей)
-│ │ └── GroupCard.jsx (карточка группы)
-│ ├── pages/
-│ │ ├── Welcome.jsx (главная страница)
-│ │ ├── Users.jsx (страница пользователей)
-│ │ └── Groups.jsx (страница групп)
-│ ├── App.js (главный компонент)
-│ ├── App.css (все стили)
-│ ├── index.js (точка входа)
-│ └── data.json (данные пользователей)
-├── package.json
-└── README.md
+<img width="390" height="423" alt="image" src="https://github.com/user-attachments/assets/7e8e6c38-188a-4e0c-b64d-71eae2d0f5c8" />
+
 
 ## Функциональность приложения
 
